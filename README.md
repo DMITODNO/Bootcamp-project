@@ -1,6 +1,9 @@
-# Bootcamp-project
+Bootcamp Project
 Project that I made during front-end development bootcamp.
 
-html css javascript and php
+We had to choose radnom psd website template and recreate it.
+Made a simple form for sending messages using PHP.
+Messages stored in local database
 
-Made a simple form using php to send messages to local database
+**html css javascript and php
+
